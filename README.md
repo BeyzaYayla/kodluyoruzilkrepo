@@ -14,7 +14,7 @@ git clone https://github.com/BeyzaYayla/kodluyoruzilkrepo.git
 
 ## Usage
 
-Projeyi cloneladıktan sonra Visual Stuio Coed programında açınız.
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 ```
